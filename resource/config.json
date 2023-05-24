@@ -1,0 +1,27 @@
+﻿{
+  "Host": "188.213.140.23",
+  "Port": 7777,
+  "GameFont": "sourcesansproblack",
+  "EntityNameFont": "sourcesansproblack",
+  "ChatBubbleFont": "sourcesansproblack",
+  "ActionMsgFont": "sourcesansproblack",
+  "UIFont": "sourcesanspro,8",
+  "ChatLines": 100,
+  "MenuMusic": "Theme 1",
+  "MenuBackground": [
+    "background.png"
+  ],
+  "MenuBackgroundDisplayMode": "Default",
+  "MenuBackgroundFrameInterval": 50,
+  "IntroImages": [],
+  "MouseCursor": "",
+  "MusicFadeTimer": 1500,
+  "EnableContextMenus": true,
+  "EnableZebraStripedRows": true,
+  "UiSkin": "Intersect2021",
+  "EntityBarDirections": [
+    "StartToEnd",
+    "StartToEnd",
+    "StartToEnd"
+  ]
+}
